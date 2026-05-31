@@ -29,9 +29,13 @@ Welcome to my personal space! I am a high school junior passionate about **Compu
 * **Description:** A curated repository documenting my journey through Object-Oriented Programming, algorithm implementations, and data structures.
 * **Link:** [View Journal](https://github.com/FreeCursor./MyJavaLearningJournal)
 
+### 3. Arduino Learning Journal
+* **Description:** A curated repository documenting my journey through Object-Oriented Programming, algorithm implementations, and data structures.
+* **Link:** [View Journal](https://github.com/FreeCursor./MyJavaLearningJournal)
+
 ---
 
 ## 📬 Contact Me
 
-* **Email:** your-email@gmail.com
+* **Email:** phy20081124@gmail.com
 * **GitHub:** [github.com/FreeCursor.](https://github.com/FreeCursor.)
