@@ -4,13 +4,13 @@ title: Ethan Pierce Pu | Portfolio
 theme: jekyll-theme-cayman
 ---
 
-# Hi, I'm Ethan Pierce Pu 👋
+# Hi, I'm HAOYU PU 👋
 
-Welcome to my personal space! I am a high school junior passionate about **Computer Science**, **Hardware Engineering**, and building real-world solutions through code and circuits.
+Welcome to my personal space! I am a high school student passionate about **Electronic Engineering**, **Hardware Engineering**, and building real-world solutions through code and circuits.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## · Tech Stack & Skills
 
 * **Programming Languages:** Java, C++, Python
 * **Hardware Platforms:** Arduino, Embedded Systems (Interrupts, Timers)
@@ -18,9 +18,9 @@ Welcome to my personal space! I am a high school junior passionate about **Compu
 
 ---
 
-## 🚀 Featured Projects
+## · Featured Projects
 
-### 1. Laser Photogate Speed Detector
+### 1. Laser Arduino
 * **Description:** Designed and implemented a high-precision speed detection system using laser modules and photodiates.
 * **Key Tech:** Arduino, C++, Hardware Interrupts for microsecond-level accuracy.
 * **Link:** [View Source Code](https://github.com/FreeCursor./laser-photogate-detector)
@@ -35,7 +35,7 @@ Welcome to my personal space! I am a high school junior passionate about **Compu
 
 ---
 
-## 📬 Contact Me
+## · Contact Me
 
 * **Email:** phy20081124@gmail.com
 * **GitHub:** [github.com/FreeCursor.](https://github.com/FreeCursor.)
