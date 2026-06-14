@@ -20,14 +20,14 @@ Welcome to my personal space! I am a high school student passionate about **Elec
 
 ## · Featured Projects
 
-### 1. Laser Arduino
+### 1. Arduino Learning Journal
 * **Description:** Designed and implemented a high-precision speed detection system using laser modules and photodiates.
 * **Key Tech:** Arduino, C++, Hardware Interrupts for microsecond-level accuracy.
 * **Link:** [View Source Code](https://github.com/FreeCursor./laser-photogate-detector)
 
 ### 2. Java Learning Journal
 * **Description:** A curated repository documenting my journey through Object-Oriented Programming, algorithm implementations, and data structures.
-* **Link:** [View Journal](https://github.com/FreeCursor./MyJavaLearningJournal)
+* **Link:** [View Journal](https://github.com/FreeCursor/java-learning-journal)
 
 ### 3. Arduino Learning Journal
 * **Description:** A curated repository documenting my journey through Object-Oriented Programming, algorithm implementations, and data structures.
